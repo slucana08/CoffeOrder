@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffe Order</string>
+    <string name="nro_tazas">1</string>
+    <string name="ordenar">Ordenar</string>
+</resources>
